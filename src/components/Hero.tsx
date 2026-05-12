@@ -34,7 +34,7 @@ export default function Hero() {
             Layanan konsultasi metodologi dan pengolahan statistik kompleks
             untuk Skripsi, Tesis, Disertasi, dan Publikasi Jurnal. Ditangani
             secara eksklusif oleh pakar berlatar belakang Magister Ilmu Gizi
-            Universitas Sebelas Maret (UNS)).
+            Universitas Sebelas Maret (UNS).
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row gap-4">
