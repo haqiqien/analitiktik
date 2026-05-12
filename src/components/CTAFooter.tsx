@@ -1,6 +1,6 @@
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight } from "lucide-react";
 
-const WA_LINK = 'https://wa.me/6287756846953';
+const WA_LINK = "https://wa.me/6287756846953";
 
 export default function CTAFooter() {
   return (
@@ -12,8 +12,8 @@ export default function CTAFooter() {
             <span className="text-gold">.</span>
           </h2>
           <p className="mt-5 text-white/60 leading-relaxed max-w-xl mx-auto">
-            Konsultasikan kebutuhan analisis data Anda sekarang. Kami siap membantu
-            dari perencanaan metodologi hingga interpretasi akhir.
+            Konsultasikan kebutuhan analisis data Anda sekarang. Kami siap
+            membantu dari perencanaan metodologi hingga interpretasi akhir.
           </p>
           <a
             href={WA_LINK}
@@ -32,9 +32,7 @@ export default function CTAFooter() {
           <p className="text-sm text-white/40">
             &copy; 2026 Analitiktik. Data Research &amp; Consulting.
           </p>
-          <p className="text-sm text-white/40">
-            Yogyakarta, Indonesia
-          </p>
+          <p className="text-sm text-white/40">Surakarta, Indonesia</p>
         </div>
       </div>
     </footer>
